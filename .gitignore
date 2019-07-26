@@ -1,0 +1,5 @@
+GPUParticle_Test/.vscode/
+*.sln
+GPUParticle_Test/Library/
+GPUParticle_Test/Temp/
+GPUParticle_Test/Logs/
